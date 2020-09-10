@@ -7,7 +7,7 @@ public class Semmike : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Szeretem az telet");
+        Debug.Log("Rák egye ki a nyarat");
     }
 
     // Update is called once per frame
